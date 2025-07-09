@@ -1,0 +1,19 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "42a5b1af-5772-460a-a5e7-27a6a8214aab")
+	(paper "B")
+	(lib_symbols)
+	(text "Link to info.html"
+		(exclude_from_sim no)
+		(at 121.412 107.95 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(href "file:///${KIPRJMOD}/meta/info.html")
+		)
+		(uuid "51334f73-ceca-4505-870f-3c623b912885")
+	)
+)
